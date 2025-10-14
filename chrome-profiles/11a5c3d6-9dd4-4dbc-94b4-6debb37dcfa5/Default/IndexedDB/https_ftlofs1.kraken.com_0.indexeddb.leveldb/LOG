@@ -1,0 +1,6 @@
+2025/10/13-23:24:16.471 39c4 Creating DB C:\Users\elon_\OneDrive\Desktop\Node Projects\kraken\chrome-profiles\11a5c3d6-9dd4-4dbc-94b4-6debb37dcfa5\Default\IndexedDB\https_ftlofs1.kraken.com_0.indexeddb.leveldb since it was missing.
+2025/10/13-23:24:16.480 39c4 Reusing MANIFEST C:\Users\elon_\OneDrive\Desktop\Node Projects\kraken\chrome-profiles\11a5c3d6-9dd4-4dbc-94b4-6debb37dcfa5\Default\IndexedDB\https_ftlofs1.kraken.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/13-23:24:20.993 39c4 Level-0 table #5: started
+2025/10/13-23:24:20.997 39c4 Level-0 table #5: 4096 bytes OK
+2025/10/13-23:24:21.000 39c4 Delete type=0 #3
+2025/10/13-23:24:21.001 39c4 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
